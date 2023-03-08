@@ -1,1 +1,1 @@
-https://gbb26.github.io/app/
+https://gbb26.github.io/RandomColorGenerator/
